@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+N
+1
+0
+2
+UC
+1
+0
+4
+1
+16
+'Ingrese numero'
+5
+1
+1
+N
+7
+0
+1
+15
+99<N AND N<1000
+4
+1
+19
+'No tiene 3 cifras'
+13
+6
+1
+2
+UC
+8
+N mod 10
+4
+1
+18
+'Ultima cifra', UC
+13
+1
